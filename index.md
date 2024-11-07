@@ -11,3 +11,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Trying out links to images.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+#### Header No4
+
+Adding code examples.
+
+Console:
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+Javascript snippet:
+``` javascript
+var myVar = "Hello, world!";
+```
